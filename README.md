@@ -22,7 +22,7 @@ The aim of the kmer program is to generate the counts of all kmers in a fasta fi
 2. Download and unzip the kmer_counting.zip in the location with the input fasta files. 
 3. Manually change all paths in the main method of **kmer.java** to the location containing the input fasta files. 
 4. To run the program, run the following commands. 
-      ```java
+      ```javascript
       /*
       Description of parameters 
         f: Name of the input file containing the DNA sequence(s)
