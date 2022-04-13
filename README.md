@@ -11,7 +11,7 @@ The aim of the Java program is to allows users to count the number of occurrence
       >s2
       ATCGCTG...
       ```
-2. Manually change all paths in the main method to the location containing the necessary files (as stated in step 1). 
+2. Manually change all paths in the main method to the location containing the necessary files (as in step 1). 
 3. To run the program, first ensure that the working directory contains all the Java programs. Second, run the following commands. 
       ```java
       javac *.java 
