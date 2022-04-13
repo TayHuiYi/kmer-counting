@@ -38,7 +38,7 @@ The aim of the kmer program is to generate the counts of all kmers in a fasta fi
       ```
 4. Open the output txtfile, "f_out.txt", for the generated kmer counts. 
 
-# Additional Notes
+# Additional Information
 - A disk-based approach (DSK algorithm) and accuracy improvements are currently undergoing implementation. The program will be updated in the near future. 
 - A summary of the methods used in the program can be found under the "Summary.pdf".
 - Terminal will output the total RAM and wall-clock running time of each input fasta file.
